@@ -3,7 +3,7 @@
 <a href="https://www.buymeacoffee.com/stavsapq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="174"></a>
 
 <img src="https://img.shields.io/badge/v1.0-green.svg?style=for-the-badge&labelColor=gray&label=Kokoro&color=blue" alt=""/>
-<img src="https://img.shields.io/badge/0.4.2-green.svg?style=for-the-badge&labelColor=gray&label=Kokoro-onnx&color=blue" alt=""/>
+<img src="https://img.shields.io/badge/0.5.0-green.svg?style=for-the-badge&labelColor=gray&label=Kokoro-onnx&color=blue" alt=""/>
 
 Kokoro TTS nodes, wrapping this [kokoro onnx](https://github.com/thewh1teagle/kokoro-onnx) that is based on [hexgrad/Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M).
 
